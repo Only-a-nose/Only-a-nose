@@ -1,11 +1,4 @@
 # Onlyanose
-| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/ |
-
-| ----------------- |--------------- |
-
-| 这个作业要求在哪里| https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228 |
-
-| 这个作业的目标 | <开通博客、Github账号。熟悉博客园的使用和博客的编辑。进行自我介绍。想通过学习该课程收获什么。> |
 
 ## 自我介绍
 
