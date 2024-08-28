@@ -1,5 +1,3 @@
-# Onlyanose
-
 ## 自我介绍
 
 - 不爱工科但专业为计算机科学与技术的双非大三学生
@@ -15,8 +13,16 @@
 4. 软件开发的流程？
 5. 如何学好这门课程？
 
-## 希望能收获
+## 我的收获期望
 
 1. 掌握软件开发的具体流程
 2. 掌握软件维护以及管理
 3. 提升自己解决问题与团队协作的能力
+
+## 我的Github
+
+- 我的Github网址：[Only-a-nose (Onlyanose) (github.com)](https://github.com/Only-a-nose)
+
+- 我的同名仓库：[Only-a-nose/Only-a-nose (github.com)](https://github.com/Only-a-nose/Only-a-nose)
+
+  
